@@ -3,10 +3,6 @@
 ![Shape1](https://i.ibb.co/LY2qyv8/3243123.png)
 
 
-A microprocessor Project
-
- ![Shape2](RackMultipart20220107-4-jmu75m_html_1d195ac1585e3fb2.gif)
-
 -
 ###
 ### A stepper motor is a unique type of DC motor that rotates in fixed steps of a certain number of degrees.
