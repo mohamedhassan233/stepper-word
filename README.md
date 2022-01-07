@@ -1,4 +1,3 @@
-# stepper-word
 ![Shape1](https://i.ibb.co/LY2qyv8/3243123.png)
 
 ## **unipolar stepper motor**
