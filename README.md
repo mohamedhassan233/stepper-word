@@ -21,6 +21,7 @@ A microprocessor Project
 ![](RackMultipart20220107-4-jmu75m_html_54c2d11dfda64b20.gif)
 
 -
+https://i.ibb.co/j8n0xLH/Capture.png
 ###
 ### current can only be directed through the coils of a Unipolar Motor in one direction
 
